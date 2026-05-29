@@ -1,0 +1,9 @@
+REPLACE THESE FILES with your actual images — filenames must match exactly:
+
+fasttrack_logo.png    → FastTrack Your Substack logo (transparent/no background PNG)
+bokeh_bg.jpg          → Orange bokeh glow background photo
+palm_bg.jpg           → Palm shadow on terracotta wall photo
+lucinda_headshot.jpg  → Your headshot (smiling, golden hour)
+BRANDING.mp4          → Brand video (used as hero background)
+
+Drop all files in the same folder as index.html and open index.html in a browser.
